@@ -1,32 +1,17 @@
 {
   "users": [
     {
-      "name": "sdasd",
-      "id": "FSi2MlsqH"
-    },
-    {
-      "name": "kiet",
-      "id": "-ASWpERy_"
-    },
-    {
-      "name": "Thanh",
-      "id": "G1ktIlVdh"
-    },
-    {
-      "name": "kiet",
-      "id": "VunK_-YfU"
-    },
-    {
-      "name": "abcd",
-      "id": "f5DHlNHT_"
-    },
-    {
       "name": "lalalal",
       "id": "jrKBrMoYo"
     },
     {
       "name": "Lam",
       "id": "S6IclP_d6"
+    },
+    {
+      "name": "Voai",
+      "phone": "012345",
+      "id": "o0muNlNzF"
     }
   ]
 }
