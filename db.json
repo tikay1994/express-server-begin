@@ -6,12 +6,19 @@
     },
     {
       "name": "Lam",
-      "id": "S6IclP_d6"
+      "id": "S6IclP_d6",
+      "email": "lam@123.com",
+      "password": "123456"
     },
     {
       "name": "Voai",
       "phone": "012345",
       "id": "o0muNlNzF"
+    },
+    {
+      "name": "Linh",
+      "phone": "123234556",
+      "id": "J7-75ZePI"
     }
   ]
 }
